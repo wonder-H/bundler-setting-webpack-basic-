@@ -10,3 +10,10 @@
 
 > - HtmlPlugin, CopyPlugin
 > - style-loader, css-loader
+> - sass-loader, sass(scss)
+> - autoprefixer
+> - postcss-loader, postcss
+> - babel-loader
+> - @babel/core, @babel/preset-env, @babel/plugin-transform-runtime
+
+* css reset
